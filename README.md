@@ -24,7 +24,7 @@ $ pip3 install jinja2
 
 3. MySQL 5.x数据库 :
 
-MySQL 5.x数据库，从[官方网站](http://dev.mysql.com/downloads/mysql/5.6.html)下载并安装
+> MySQL 5.x数据库，从[官方网站](http://dev.mysql.com/downloads/mysql/5.6.html)下载并安装
 
 4. MySQL的Python异步驱动程序aiomysql： 
 
